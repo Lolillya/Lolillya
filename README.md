@@ -1,3 +1,14 @@
+
+
+<p align="center">
+  <img
+    src="https://media1.tenor.com/m/x48PidjRwGIAAAAC/snow-jon-snow.gif"
+    alt="til"
+    width="1000"
+  />
+</p>
+
+
 <div align="center">
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/trpc.png" alt="tRPC" title="tRPC"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
@@ -23,11 +34,3 @@
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/metamask.png" alt="Metamask" title="Metamask"/></code>
 	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ethereum.png" alt="Ethereum" title="Ethereum"/></code>
 </div>
-
-<p align="center">
-  <img
-    src="https://media1.tenor.com/m/x48PidjRwGIAAAAC/snow-jon-snow.gif"
-    alt="til"
-    width="1000"
-  />
-</p>
